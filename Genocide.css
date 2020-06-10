@@ -1,0 +1,82 @@
+
+body {
+  background-image: url('https://www.netpremacy.com/wp-content/uploads/2018/09/Background-website-01.jpg');
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-position: center;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+h1  {
+  text-align: center;
+  font-family: 'Metal Mania', cursive;
+  font-size: 45px;
+  padding: 3px;
+  margin: 5px;
+  color: royalblue;
+}
+h2 {
+  font-size: 30px;
+  color: red;
+  margin: 10px;
+  padding: 10px;
+  font-family: 'Crimson Text', serif;
+}
+p {
+  margin: 5px;
+  margin-left: 22px;
+  font-size: 23px;
+  font-weight: 600;
+  text-indent: 50px;
+  line-height: 35px;
+}
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 8px;
+  font-weight: bold;
+}
+li {
+  display: inline;
+}
+a {
+  padding: 10px;
+  text-decoration: none;
+  color: black;
+  font-size: 35px;
+  font-family: 'Playfair Display', serif;
+}
+a:hover {
+  background-color: lightgray;
+}
+a:active {
+  background-color: lightgray;
+}
+div {
+  display: block;
+}
+
+.text ul {
+  padding: 8px;
+  font-weight: normal;
+  line-height: 35px;
+}
+.text li {
+  display: block;
+  margin-left: 22px;
+  font-size: 23px;
+  font-weight: 600;
+  text-indent: 75px;
+}
+.text img {
+  height: 50%;
+  width: 50%;
+  display: block;
+  margin-right: auto;
+  margin-left: auto;
+  border: 10px;
+  border-color: black;
+
+}
